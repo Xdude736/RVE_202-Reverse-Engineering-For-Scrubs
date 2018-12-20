@@ -47,7 +47,7 @@ THERE WILL BE REQUIRED READING FROM THE BOOKS. GET THE DAMN BOOKS. NO JOKE.
 
 ***Week 1:***
   This week will start out easy with a couple of chapters to read and videos to watch. Along with that there will be two writeups due.
-  Readings - Hacking: 0x100, 0x250 thru ox280 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
+  Readings - Hacking: 0x100, 0x250 thru ox280. Reversing: Ch.1 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
   Videos - https://liveoverflow.com/intro.html and 0x00 through 0x05 of his Binary Hacking Course: https://liveoverflow.com/binary_hacking/index.html 
   Projects - MC: Tutorial(No writeup necessary), MC:New Oreleans, MC:Sydney
   
