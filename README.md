@@ -8,17 +8,18 @@ Hello and welcome to (RVE 202 - Reverse Engineering for Scrubs)! I am, essential
 
 ***Learning Goals:***
   By the end of this course the student should be able to:
-  1.) Given a simple assembly file, be able to write a psuedo code representation of the program, preferrably in C
-  2.) Explain the basics of a stack overflow
-  3.) Demonstrate the ability to execute a stack overflow given a vulnerable file, both with and without stack protection on
-  4.) Understand and be able to exploit basic heap overflows
-  5.) Understand and be able to exploit basic formatting overflows
-  6.) Explain, in writing, what the exploit is and how it was exploited, along with how to patch it
-  7.) Write a basic C or Python program that can execute an exploit
-  8.) Explain the basics of memory layout and how a C program is broken down
+  1.) Given a simple assembly file, be able to write a psuedo code representation of the program, preferrably in C.
+  2.) Explain the basics of a stack overflow.
+  3.) Demonstrate the ability to execute a stack overflow given a vulnerable file, both with and without stack protection on.
+  4.) Understand and be able to exploit basic heap overflows.
+  5.) Understand and be able to exploit basic formatting overflows.
+  6.) Explain, in writing, what the exploit is and how it was exploited, along with how to patch it.
+  7.) Write a basic C or Python program that can execute an exploit.
+  8.) Explain the basics of memory layout and how a C program is broken down.
 
 ***Required Texts:***
 1.) Hacking: the Art of Exploitation 2nd Ed. by Jon Erikson https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=sr_1_2?ie=UTF8&qid=1545281046&sr=8-2&keywords=hacking+the+art+of+exploitation
+
 2.) Reversing: Secrets of Reverse Engineering by Eldad Eilam https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/ref=sr_1_1?ie=UTF8&qid=1545281077&sr=8-1&keywords=reversing+secrets+of+reverse+engineering
 
 THERE WILL BE REQUIRED READING FROM THE BOOKS. GET THE DAMN BOOKS. NO JOKE.
@@ -39,15 +40,15 @@ THERE WILL BE REQUIRED READING FROM THE BOOKS. GET THE DAMN BOOKS. NO JOKE.
   7.) On Protostar: try and solve the challenges only using the provided binary file. It can be very frustrating but it will help you better understand assembly and the sooner you can read assembly the sooner you can get into the real meat and potatoes. If you get really stuck on a challenge (15+hrs with no real progress) look at the source code mirror for the challenge on Live0verflow's website. If you still cna't figure it out after (20+hrs) watch his video tutorial and fiugre out what it is that blocked you and make sure to include that in your writeup. The key here is to learn, both from the challenges and from your mistakes. It will make you a better programmer.
 
 ***Conventions:***
-  MC = Microcorruption
-  LVF = Live0verflow
-  PST = Protstar
-  Books will be referenced by their main title, minus the sub title
+  MC = Microcorruption,
+  LVF = Live0verflow,
+  PST = Protstar,
+  Books will be referenced by their main title, minus the sub title.
 
 ***Week 1:***
   This week will start out easy with a couple of chapters to read and videos to watch. Along with that there will be two writeups due.
-  Readings - Hacking: 0x100, 0x250 thru ox280 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page)
-  Videos - https://liveoverflow.com/intro.html and 0x00 through 0x05 of his Binary Hacking Course: https://liveoverflow.com/binary_hacking/index.html
+  Readings - Hacking: 0x100, 0x250 thru ox280 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
+  Videos - https://liveoverflow.com/intro.html and 0x00 through 0x05 of his Binary Hacking Course: https://liveoverflow.com/binary_hacking/index.html 
   Projects - MC: Tutorial(No writeup necessary), MC:New Oreleans, MC:Sydney
   
 ***COURSE WILL BE UPDATED OVER TIME***
