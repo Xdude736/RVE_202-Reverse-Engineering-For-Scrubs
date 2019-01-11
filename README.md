@@ -58,15 +58,15 @@ During this course you will be required to do readings, watch videos, and comple
 
 ## Week 1:
 This week will start out easy with a couple of chapters to read and videos to watch. Along with that there will be two writeups due.
-**Readings** _Hacking_: 0x100, 0x250 thru 0x280. _Reversing_: Ch.1 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
-**Videos** [Live0verflows Intro](https://liveoverflow.com/intro.html) and 0x00 through 0x05 of his [LVF: Binary Hacking Course](https://liveoverflow.com/binary_hacking/index.html)
-**Projects** _MC_: Tutorial(No writeup necessary), New Oreleans, Sydney
+-**Readings** _Hacking_: 0x100, 0x250 thru 0x280. _Reversing_: Ch.1 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
+-**Videos** [Live0verflows Intro](https://liveoverflow.com/intro.html) and 0x00 through 0x05 of his [LVF: Binary Hacking Course](https://liveoverflow.com/binary_hacking/index.html)
+-**Projects** _MC_: Tutorial(No writeup necessary), New Oreleans, Sydney
 
 ## Week 2
 This week will ease you into the basics of reversing. Make sure to take notes and create cheat sheets for any concepts/commands you think you'll need.
-**Readings** _Hacking_: 0x310 and 0x320. _Reversing_: Chapter 2 (Some of the material is repeated from last week, but reading it again reinforces the ideas/concepts)
-**Videos** [LVF: Binary Hacking Course](https://liveoverflow.com/binary_hacking/index.html): 0x06, 0x09 - 0x0B (0x07-0x08 are bonus if you are interested)
-**Projects** _MC_: Hanoi, Cusco ; _PST_: Stack0, Stack1
-**Resources** Protostar can be found [here](https://exploit.education/protostar/). For now, ignore the warning that protostar is out of date.
+-**Readings** _Hacking_: 0x310 and 0x320. _Reversing_: Chapter 2 (Some of the material is repeated from last week, but reading it again reinforces the ideas/concepts)
+-**Videos** [LVF: Binary Hacking Course](https://liveoverflow.com/binary_hacking/index.html): 0x06, 0x09 - 0x0B (0x07-0x08 are bonus if you are interested)
+-**Projects** _MC_: Hanoi, Cusco ; _PST_: Stack0, Stack1
+-**Resources** Protostar can be found [here](https://exploit.education/protostar/). For now, ignore the warning that protostar is out of date.
   
 ***COURSE WILL BE UPDATED OVER TIME***
