@@ -58,7 +58,7 @@ During this course you will be required to do readings, watch videos, and comple
 
 ## Week 1:
 This week will start out easy with a couple of chapters to read and videos to watch. Along with that there will be two writeups due.
-**Readings** _Hacking_: 0x100, 0x250 thru ox280. _Reversing_: Ch.1 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
+**Readings** _Hacking_: 0x100, 0x250 thru 0x280. _Reversing_: Ch.1 (This week is a lot more required reading than normal, but we are trying to get everyone on the same page). 
 **Videos** [Live0verflows Intro](https://liveoverflow.com/intro.html) and 0x00 through 0x05 of his [lVF: Binary Hacking Course] (https://liveoverflow.com/binary_hacking/index.html)
 **Projects** _MC_: Tutorial(No writeup necessary), New Oreleans, Sydney
 
