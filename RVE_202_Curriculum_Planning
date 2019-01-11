@@ -1,0 +1,28 @@
+I. Goals and Objectives
+   1. Students will read assembly and create a pseudo-code representation of the assembly
+   2. Students will demonstrate understanding of basic Stack/Heap protection implemented on modern operating systems
+   3. Students will learn the basic layout of a C program while it is being executed in Memory
+II. Expected Outcomes
+   1. Students will show understanding of, be able to recognize, and be able to exploit: Stack Overflows, Heap Overflows, Formatting errors, and general errors in C binaries
+   2. Students will be able to create a clear write up for a vulnerable program: explaining what the exploit is, how they found it, how to use it as a threat actor, and how to correct the issue
+   3. Students will be able to write an exploit program in C or Python that will run an exploit on a vulnerable program, allowing for exploit automation
+III. Content and Sequencing
+   1. Introduce programming principles requisite to start reversing (C, Memory Layout, Assembly conventions, etc.)
+   2. Reversing (what it is/isn’t)
+   3. Stack Overflows
+   4. Stack Protections
+   5. Format Vulnerabilities
+   6. Heap Overflows
+   7. Basic Operating Systems (Setup for RVE 236)
+   8. Basic C Networking (Setup for RVE 236)
+IV. Methods
+   1. Videos
+   2. Required Readings
+   3. Performing Exploit Challenges
+   4. Write Ups
+V. Resources
+   1. Hacking: the Art of Exploitation 2nd Ed. by Jon Erikson
+   2. Reversing: Secrets of Reverse Engineering by Eldad Eilam
+VI. Evaluation Approach
+   1. Student Success with finding, executing, and documenting an exploit given a binary file
+   2. Student Ability with reading assembly and drafting a pseudo-code representation of a binary file
