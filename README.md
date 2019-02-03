@@ -69,5 +69,11 @@ This week will ease you into the basics of reversing. Make sure to take notes an
 - **Videos:** [LVF: Binary Hacking Course](https://liveoverflow.com/binary_hacking/index.html): 0x06, 0x09 - 0x0B (0x07-0x08 are bonus if you are interested)
 - **Projects:** _MC_: Hanoi, Cusco ; _PST_: Stack0, Stack1
 - **Resources:** Protostar can be found [here](https://exploit.education/protostar/). For now, ignore the warning that protostar is out of date.
-  
+
+## Week 3
+This week will be relatively laid back, focusing more on understanding previous assignments and slowly working towards a more in depth understanding of stack overflows.
+- ***Readings:*** _Hackng_: 0x330. _Reversing_: Chapters 3 and 4.
+- ***Videos:*** _LVF_: 0x0C (don't watch if you have not completed last weeks protostars)
+- ***Projects:*** _MC_: Johannesburg, Reykjavik. _PST_: Stack2, Stack3. If you need more to do; stack4 (can also be done next week).
+
 ***COURSE WILL BE UPDATED OVER TIME***
