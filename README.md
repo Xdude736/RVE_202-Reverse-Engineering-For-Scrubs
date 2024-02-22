@@ -33,7 +33,7 @@ Throughout this course:
 
 2. [Reversing: Secrets of Reverse Engineering by Eldad Eilam](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817/ref=sr_1_1?ie=UTF8&qid=1545281077&sr=8-1&keywords=reversing+secrets+of+reverse+engineering)
 
-***THERE WILL BE REQUIRED READING FROM THE BOOKS. GET THE DAMN BOOKS. NO JOKE.***
+***THERE WILL BE REQUIRED READING FROM THE BOOKS. GET THE BOOKS. NO JOKE.***
 
 ## Academic Honesty:
 Like all courses, we expect acedemic honesty from students. There is nothing wrong with getting help from fellow students or the internet when you are stuck or need something explained in a different way. There is something wrong when you are copying other people's writeups and exploits. Cheaters don't win. They may get degrees but they become *That Guy* or worse...Script Kiddi3s. Don't be those people.
@@ -43,10 +43,10 @@ During this course you will be required to do readings, watch videos, and comple
 
 ## Tips & Tricks:
 1. Never take less than $20. You are worth more than that.
-2. This course is designed to be self paced, so feel free to take your time and really dig into the material. The order of assignments  listed below are in the recommended order. It is not required that you do them in that order.
+2. This course is designed to be self paced, so feel free to take your time and really dig into the material. The order of assignments listed below are in the recommended order. It is not required that you do them in that order.
 3. For Microcorruption: the MSP430 is a real microprocessor from Texas Insturments. It has real documentation out there that may be useful. There is also a custom manual for the different locks available on the microcorruption site. Look for it, it's there.
 4. While watching Live0verflow's videos: if at any point he starts walking you through a protostar challenge STOP WATCHING IMMEDIATELY! The point of these challenges are for you to learn and figure them out on your own. Watching a walkthrough should only happen AFTER you have completed the challenge and want to get a different perspective/deeper understanding of wtf you just did.
-5. For anyone new to C: it can be a real bitch. And that's an understatement. Take your time while trying to figure it out and always make sure you know what is going on with Null Terminators. Also, pointers. Pointers, pointers, pointers, pointers.
+5. For anyone new to C: it can be a real pain. And that's an understatement. Take your time while trying to figure it out and always make sure you know what is going on with Null Terminators. Also, pointers. Pointers, pointers, pointers, pointers.
 6. RTFM n00b. Seriously though, man pages will be your best friend. Learn how to read documentation sooner rather than later. You will be better for it.
 7. On Protostar: try and solve the challenges only using the provided binary file. It can be very frustrating but it will help you better understand assembly and the sooner you can read assembly the sooner you can get into the real meat and potatoes. If you get really stuck on a challenge (10+hrs with no real progress) look at the source code mirror for the challenge on Live0verflow's website. If you still can't figure it out after (15+hrs) watch his video tutorial and fiugre out what it is that blocked you and make sure to include that in your writeup. The key here is to learn, both from the challenges and from your mistakes. It will make you a better programmer.
 
